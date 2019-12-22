@@ -1,0 +1,14 @@
+{
+  "#1": {
+    "name": "Moi",
+    "bio": "Ma bio"
+  },
+  "#2": {
+    "name": "Toi",
+    "bio": "Ta bio"
+  },
+  "#3": {
+    "name": "Lui",
+    "bio": "Sa bio"
+  }
+}

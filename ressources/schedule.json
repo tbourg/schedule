@@ -1,0 +1,14 @@
+{
+  "#1": {
+    "name": "Lundi",
+    "planning": [
+      {
+        "time": "10-17",
+        "title": "Opening",
+        "abstract": "Presentation of the speakers and the topics",
+        "res": "./resources/opening.pdf",
+        "speaker_id": "#1"
+      }
+    ]
+  }
+}
